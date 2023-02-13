@@ -1,0 +1,15 @@
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\bin\Debug\net6.0\formas-geométrica.exe
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\bin\Debug\net6.0\formas-geométrica.deps.json
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\bin\Debug\net6.0\formas-geométrica.runtimeconfig.json
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\bin\Debug\net6.0\formas-geométrica.dll
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\bin\Debug\net6.0\formas-geométrica.pdb
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.AssemblyInfoInputs.cache
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.AssemblyInfo.cs
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.dll
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\refint\formas-geométrica.dll
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.pdb
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\formas-geométrica.genruntimeconfig.cache
+C:\Users\josec\OneDrive\Área de Trabalho\PROJETOS\formas-geométrica\obj\Debug\net6.0\ref\formas-geométrica.dll
