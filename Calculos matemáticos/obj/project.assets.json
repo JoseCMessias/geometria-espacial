@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josec\\OneDrive\\Área de Trabalho\\PROJETOS\\formas-geométrica\\formas-geométrica.csproj",
+      "projectUniqueName": "C:\\Users\\josec\\OneDrive\\Área de Trabalho\\PROJETOS\\geometria-espacial\\Calculos matemáticos\\formas-geométrica.csproj",
       "projectName": "formas-geométrica",
-      "projectPath": "C:\\Users\\josec\\OneDrive\\Área de Trabalho\\PROJETOS\\formas-geométrica\\formas-geométrica.csproj",
+      "projectPath": "C:\\Users\\josec\\OneDrive\\Área de Trabalho\\PROJETOS\\geometria-espacial\\Calculos matemáticos\\formas-geométrica.csproj",
       "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josec\\OneDrive\\Área de Trabalho\\PROJETOS\\formas-geométrica\\obj\\",
+      "outputPath": "C:\\Users\\josec\\OneDrive\\Área de Trabalho\\PROJETOS\\geometria-espacial\\Calculos matemáticos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config"
